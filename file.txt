@@ -1,2 +1,4 @@
 "My first line in project" 
 "Paris is the capital" 
+"Omks is new capital of universe" 
+"Uiverse is not need capital" 
