@@ -1,4 +1,2 @@
 "My first line in project" 
-"London is the capital of GB" 
-"Moscow capital of Russia" 
 "Paris is the capital" 
